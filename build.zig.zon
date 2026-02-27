@@ -37,8 +37,8 @@
             .hash = "sdl-0.4.0+3.4.0-SDL--rq2owEZsySGuHCuVJ9naEvH3i3e_pyUIjziBtJ-",
         },
         .vulkan = .{
-            .url = "git+https://github.com/Snektron/vulkan-zig#da86a8c074ffb6586c5027e2569d109352889c53",
-            .hash = "vulkan-0.0.0-r7Ytx-BHAwBZ4BqSasAIlgaiA6RKtmNqHU7jY6cE04or",
+            .url = "git+https://github.com/hansielneff/vulkan-zig#8ed46dd3537dabbb7e18e835853ccbb7ac02b52c",
+            .hash = "vulkan-0.0.0-r7Ytx3pIAwADcYlfh33rL6UY5W23AVdUX3UaaPDoX4vr",
         },
         .vulkan_headers = .{
             .url = "git+https://github.com/KhronosGroup/Vulkan-Headers#ad9ce1235e88dc09287e19171dfac384db8ec32c",

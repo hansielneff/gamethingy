@@ -1,0 +1,6 @@
+// List of shaders (from src/shaders/) to be included in the build.
+// The format is the filename without the extension.
+.{
+    //"vertex",
+    //"fragment",
+}

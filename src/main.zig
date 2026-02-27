@@ -7,9 +7,6 @@ const c = @cImport({
     @cInclude("SDL3/SDL_vulkan.h");
     @cInclude("SDL3/SDL_revision.h");
     @cInclude("SDL3/SDL_main.h");
-
-    @cDefine("VP_USE_OBJECT", "1");
-    @cInclude("vulkan/vulkan_profiles.h");
 });
 const vk = @import("vulkan");
 
